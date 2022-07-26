@@ -33,21 +33,31 @@
 
 ### 主な実績
 - ITベンチャー企業にて機械学習の実装業務
-
+   - 
+  
   [実装で利用した一部の機械学習モデルに関する記事](https://qiita.com/sora-otsuka/items/83ea976236a82f6c6645)
 
 - 社会人向け統計学セミナーの主催・資料作成・進行
-
+  - 
+  
   [Pythonで学ぶ統計学入門](https://math-coding.connpass.com/event/208344/)
 
-- 業界最大手プログラミングスクールにおいて、Pythonコース・AIコース・データサイエンスコースの教材作成業務
-
 - 個人事務所 AITech Co-Labo 開業 
+  - 
 
-  プログラミングスクールでの
+- 業界最大手プログラミングスクールにおいて、Pythonコース・AIコース・データサイエンスコースの教材作成業務
+  
+  
+  - プログラミングスクールでの
+  
+
+  
+  
 
 - 上記プログラミングスクールのコースディレクター就任
 
+  - 教材を作成し、それによってコース満足度を上昇させた経験から、上記プログラミングスクールのコースディレクターに就任した。
+  
 <!--
 **Sora-Otsuka/Sora-Otsuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
